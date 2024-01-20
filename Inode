@@ -1,0 +1,15 @@
+What is an inode in Linux?
+How can you view the inode information for a file?
+Why doesn't an inode store the file name?
+What is the relationship between files, directories, and inodes?
+What happens to the inode when a file is deleted?
+How does the system handle hard links at the inode level?
+What is the impact on inodes when a file is moved within the same filesystem?
+How can you find a file if you know its inode number?
+What is the significance of the inode count on a filesystem?
+How does the system find the data blocks of a file using its inode?
+What happens when a filesystem runs out of inodes?
+How does symbolic link differ from hard link in terms of inodes?
+What kind of information is stored in an inode?
+How does the inode mechanism contribute to the security of a Linux system?
+What is the difference between an inode and a file descriptor?
